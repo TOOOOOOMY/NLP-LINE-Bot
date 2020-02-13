@@ -11,4 +11,5 @@ https://qiita.com/Tommyyyyyyy/items/5c064cd277ae364ed2b7
 https://github.com/TOOOOOOMY/NLP-LINE-Bot/blob/master/User_guide.md
 <br><br>
 プライバシーポリシーはこちら→
+<br>
 https://github.com/TOOOOOOMY/NLP-LINE-Bot/blob/master/privacy_policy.md
